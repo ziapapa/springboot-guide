@@ -67,7 +67,7 @@
 * 전체적인 공통설정을 관리하는 global
 * 외부 연계 시스템을 관리하는 external
 
-### Domain
+### domain (도메인)
 
 ```
 ├── domain
@@ -114,7 +114,7 @@
 * exception : 해당 도메인이 발생시키는 Exception으로 구성.
 
 
-### global
+### global (전역설정)
 
 ```
 ├── global
@@ -149,7 +149,7 @@ global은 프로젝트 전방위적으로 사용되는 객체들로 구성
 * util : 유틸성 클래스들이 위치
 
 
-### external
+### external (외부연계)
 
 ```
 └── external
